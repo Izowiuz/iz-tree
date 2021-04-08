@@ -1,0 +1,6 @@
+﻿module @MODULE_NAME@
+plugin @PLUGIN_NAME@Plugin@CMAKE_DEBUG_POSTFIX@
+typeinfo @PLUGIN_NAME@.qmltypes
+classname @PLUGIN_NAME@QmlPlugin
+@ADDITIONAL_JS_FILES@
+depends QtQuick.Shapes 1.12

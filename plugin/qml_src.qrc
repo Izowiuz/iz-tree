@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>include/IzTreeView/QML/DefaultNodeDelegate.qml</file>
+        <file>include/IzTreeView/QML/IzTreeView.qml</file>
+        <file>include/IzTreeView/QML/LineComponent.qml</file>
+        <file>include/IzTreeView/QML/LineShapeComponent.qml</file>
+        <file>include/IzTreeView/QML/QuickSettings.qml</file>
+        <file>include/IzTreeView/QML/NoParentLineComponent.qml</file>
+    </qresource>
+</RCC>
